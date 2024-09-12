@@ -1,0 +1,20 @@
+../Core/Src/util.cpp:37:6:void util_memcpy(unsigned char*, unsigned char*, unsigned int)	40	static
+../Core/Src/util.cpp:84:6:void util_memset(unsigned char*, unsigned char, unsigned int)	40	static
+../Core/Src/util.cpp:126:7:int util_max(int, int)	16	static
+../Core/Src/util.cpp:138:7:int util_min(int, int)	16	static
+../Core/Src/util.cpp:150:7:int util_bound(int, int, int)	24	static
+../Core/Src/util.cpp:165:7:int util_abs(int)	16	static
+../Core/Src/util.cpp:183:5:int util_linear(int, int, int, int, int)	32	static
+../Core/Src/util.cpp:210:8:short unsigned int util_read_le16(unsigned char*)	24	static
+../Core/Src/util.cpp:230:8:unsigned int util_read_le32(unsigned char*)	24	static
+../Core/Src/util.cpp:252:6:void util_write_le16(unsigned char*, short unsigned int)	16	static
+../Core/Src/util.cpp:265:6:void util_write_le32(unsigned char*, unsigned int)	16	static
+../Core/Src/util.cpp:280:8:short unsigned int util_read_be16(unsigned char*)	24	static
+../Core/Src/util.cpp:296:8:unsigned int util_read_be24(unsigned char*)	24	static
+../Core/Src/util.cpp:315:8:unsigned int util_read_be32(unsigned char*)	24	static
+../Core/Src/util.cpp:337:6:void util_write_be16(unsigned char*, short unsigned int)	16	static
+../Core/Src/util.cpp:350:6:void util_write_be32(unsigned char*, unsigned int)	16	static
+../Core/Src/util.cpp:362:6:void util_write_be24(unsigned char*, unsigned int)	16	static
+../Core/Src/util.cpp:374:6:void util_init()	4	static
+../Core/Src/util.cpp:381:6:void util_main()	4	static
+../Core/Src/util.cpp:388:8:unsigned int util_memcmp(unsigned char*, unsigned char*, unsigned int)	32	static
